@@ -1,0 +1,25 @@
+#Mariah Mitchell
+#12 May 2025
+#P5HW
+#program a game using loops and functions
+
+
+def create_magnolia():
+    #create a dictionary variable, main character
+    name = "Magnolia"
+    health_points = 100
+    Sail_ability = 0
+    inventory = []
+
+item = input(f'Should{nhave any items ame}
+
+def main():
+    print()
+    print("Are you ready to play Magnolia's Riverboat")
+    print()
+    
+
+
+# Call the main
+if__name__=="__main__"
+main()
