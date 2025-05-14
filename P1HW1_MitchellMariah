@@ -1,0 +1,11 @@
+#Mariah Mitchell
+#4 April 2025
+#P1HW1
+#create a program to calcuate mathematics
+
+x = 7
+y = 3
+
+print(f"\nEnter an integer as the base value: {7}")
+print(f"\nEnter an integer as an exponent: {3}", end=' ')
+
